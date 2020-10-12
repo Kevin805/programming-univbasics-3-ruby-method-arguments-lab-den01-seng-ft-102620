@@ -1,9 +1,12 @@
+def introduction (Kevin)
+  puts "Hi my name is #{name}."
+end 
 
+def introduction (Kevin, Java)
+ puts "Hi my name is #{name}, and I am learning to program in #{language}."
+end
 
-
-
-
-
+def
 
 
 
